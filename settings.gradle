@@ -1,0 +1,3 @@
+rootProject.name = '23-design-patterns-analysis'
+include 'design-patterns-src'
+
