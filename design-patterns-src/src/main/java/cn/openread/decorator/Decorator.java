@@ -9,8 +9,6 @@ public class Decorator implements Sourceable {
 
     @Override
     public void method() {
-        System.out.println(0);
-        origin.method();
-        System.out.println(2);
+        //自定义实现
     }
 }
