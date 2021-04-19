@@ -12,7 +12,7 @@ gen### Java template
 .gradle
 # Log file
 *.log
-
+build/
 # BlueJ files
 *.ctxt
 
